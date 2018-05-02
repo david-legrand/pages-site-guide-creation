@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: GitHub Pages, le guide Next INpact
 description: Site d'exemple du guide GitHub Pages de Next INpact
+author:
+ name : David Legrand
