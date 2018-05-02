@@ -1,3 +1,6 @@
+---
+title: Exemple Next INpact
+---
 # Titre de la page
 
 Dans un mois, Next INpact **fêtera ses 15 ans**. Une étape majeure pour le site et notre équipe, après bien des évolutions et péripéties depuis les débuts d'INpact Hardware, puis de PC INpact.
