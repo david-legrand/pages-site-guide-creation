@@ -17,5 +17,6 @@ Nous voulons aussi proposer un eBook de vulgarisation sur la protection des donn
 
 * 80 000 € (190 %) : Un eBook de vulgarisation sur la vie privée et le chiffrement, accessible à tous
 * 130 000 € (310 %) : On finance Kimetrak et une grande enquête sur le pistage en ligne
+
 ---
 > Si tu ne sais pas demande, si tu sais partage
